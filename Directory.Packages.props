@@ -6,7 +6,7 @@
   <ItemGroup>
     <PackageVersion Include="AngleSharp" Version="1.7.2" />
     <PackageVersion Include="AsyncImageLoader.Avalonia" Version="3.8.0" />
-    <PackageVersion Include="AsyncKeyedLock" Version="8.0.2" />
+    <PackageVersion Include="AsyncKeyedLock" Version="8.1.2" />
     <PackageVersion Include="Avalonia" Version="12.1.1" />
     <PackageVersion Include="Avalonia.Desktop" Version="12.1.1" />
     <PackageVersion Include="CliFx" Version="3.0.1" />
